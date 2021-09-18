@@ -28,13 +28,11 @@ regarding their localities which in turn can help travellers.
 
 
     
-## Demo
+## Demo 
 
-<span>
-<img src="https://cdn.discordapp.com/attachments/866923264348913674/866926316389793802/IMG-20210719-WA0005.jpg" width=270 height=570 />                    
-<img src="https://cdn.discordapp.com/attachments/866923264348913674/866926317257359380/IMG-20210719-WA0006.jpg" width=270 height=570/>
-<img src="https://cdn.discordapp.com/attachments/866923264348913674/866926316628738058/IMG-20210719-WA0007.jpg" width=270 height=570/>
-</span>
+https://user-images.githubusercontent.com/68494604/133897421-86a245b1-3c85-4b14-977b-fdc586ec870e.mp4
+
+
 
 ## Support
 
