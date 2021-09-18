@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:weightSum="4"
+    android:background="#2a2339"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="380dp"
+    android:orientation="vertical"
+    android:id="@+id/botom"
+    app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior"
+    app:behavior_hideable="true"
+    app:behavior_peekHeight="520dp"
+    >
+
+    <!--  Here is your content  -->
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2.2"
+        android:id="@+id/mark_image"
+        android:src="@drawable/lod"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.6"
+        android:background="#6e67ed"
+        android:textColor="@color/white"
+        android:text="Katargam"
+        android:textSize="18dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:id="@+id/mark_name"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.6"
+        android:paddingLeft="20dp"
+        android:drawableLeft="@drawable/ic_baseline_description_24"
+        android:id="@+id/mark_desc"
+        android:drawablePadding="10dp"
+        android:textColor="@color/black"
+        android:gravity="center_vertical"
+        android:background="@drawable/border"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.6"
+        android:drawablePadding="10dp"
+        android:paddingLeft="20dp"
+        android:id="@+id/mark_ad"
+        android:textColor="@color/black"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:drawableLeft="@drawable/ic_baseline_location_on_24"
+        />
+
+
+</LinearLayout>
